@@ -13,6 +13,7 @@
    -Codigo raiz
    -Verificar etiquetas
    
+   
    Version 2.0.0
    
    -Se actualizo etiquetas obsoletas por nuevas HTML:5
@@ -25,11 +26,16 @@
    
    -Se valido cada codigo con la W3C
    
+   
    Version 3.0.0
    
   -Se creo la carpeta "css" para añadir el codigo css de las 15 paginas
+  
   -Se le agrego diseño a las paginas con las hojas de estilo
+  
   -Se crearon ID
+  
   -Se crearon clases "Class"
+  
   -Se creo un container 
 
