@@ -7,7 +7,7 @@
     OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
     FECHA DE CREACION: 7/08/2022
     VERSION: 2.0.0
-    FECHA MODIFICACION: 7/0882022
+    FECHA MODIFICACION: 8/08/2022
     
    Version 1.0.0
    
