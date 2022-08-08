@@ -9,8 +9,6 @@
     VERSION: 2.0.0
     FECHA MODIFICACION: 7/0882022
     
-
-    
    Version 1.0.0
    -Codigo raiz
    -Verificar etiquetas
@@ -18,9 +16,13 @@
    Version 2.0.0
    
    -Se actualizo etiquetas obsoletas por nuevas HTML:5
+   
    -Se le agrego documentacion con un comentario 
+   
    -Se agrego imagenes
+   
    -Se cambio el tittle por el nombre del ejercicio
+   
    -Se valido cada codigo con la W3C
    
    Version 3.0.0
