@@ -1,12 +1,9 @@
-# -Datos                                                               -FECHA DE CREACION: 7/08/2022
-#   -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                       -VERSION: 2.0.0
-#     -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
-#       -PROGRAMA: Analisis y Desarrollo de Software - ADSO                  -OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
-#         -AUTOR: Santiago Montaño                                 
-#           
-# 
-# 
-# 
+ -Datos                                                               -FECHA DE CREACION: 7/08/2022
+   -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                       -VERSION: 2.0.0
+     -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
+      -PROGRAMA: Analisis y Desarrollo de Software - ADSO                  -OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
+        -AUTOR: Santiago Montaño                                            
+
     
    -Este repositorio cuenta con 3 versiones de las 15 paginas de HTML, la versión 1 cuenta con el código original sin modificaciones, la versión 2.0 es la actualización y cuenta con documentación, indentacion del código y nuevas etiquetas de HTML:5, la versión 3.0 se le agrego el diseño con hojas de estilo Css.
     
