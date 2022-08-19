@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    width: 1000px;
+    height: 750px;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header
+{
+    position: relative;
+    width: 1000px;
+    height: 100px;
+    background-color: #6AF771;
+}
+#enc
+{
+    position: relative;
+    text-align: center;
+    top: 25px;
+}
+.nav
+{
+    width: 1000px;
+    height: 50px;
+    background-color: #F24150;
+    text-align: center;
+}
+.main
+{
+    width: 1000px;
+    height: 500px;
+    background-color: #8E37A6;
+}
+
+.footer
+{
+    width: 1000px;
+    height: 100px;
+    background-color: #6AF771;
+}
+.footer #nom
+{
+    position: relative;
+    left: 60px;
+    top: 45px;
+    
+
+}
+#copy
+{
+    position: relative;
+    left: 60px;
+    top: 45px;
+
+}
+.footer img
+{
+    position: relative;
+    left: 90%;
+    
+    
+}
