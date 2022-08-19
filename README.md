@@ -1,7 +1,12 @@
- *Datos                                                               -FECHA DE CREACION: 7/08/2022
+ *
+ Datos                                                               -FECHA DE CREACION: 7/08/2022
+ 
    *ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                       -VERSION: 2.0.0
+   
      -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
+     
       -PROGRAMA: Analisis y Desarrollo de Software - ADSO                  -OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
+      
         -AUTOR: Santiago Montaño                                            
 
     
@@ -45,9 +50,13 @@
   Version 4.0.0
   
   -Se agrego los rechos de autor copyright
+  
   -Se agrego el logo de la W3C para mostrar que la pagina esta validada por la W3C
+  
   -Se maqueto segun el orden (Header,nav,Body,footer) 
+  
   -Se busco los colores para contrastar la pagina
+  
 
 
 
