@@ -1,15 +1,15 @@
  
-                                                          -FECHA DE CREACION: 7/08/202
+                                                          -AUTOR: Santiago Montaño  
 
- 
     
-      -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
      
-        -PROGRAMA: Analisis y Desarrollo de Software - ADSO                  -OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
-             
-            -AUTOR: Santiago Montaño                                             -VERSION: 2.0.0                                        
+      -PROGRAMA: Analisis y Desarrollo de Software - ADSO                    -OBJETIVO: Uso de las etiquetas HTML: p, strong, del, em
+            
+          -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
+   
+             -FECHA DE CREACION: 7/08/202                                          -VERSION: 2.0.0                                        
                                                                                    
-               -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                 
+                 -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                 
       
 
     
