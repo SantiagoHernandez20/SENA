@@ -13,7 +13,7 @@
       
 
     
-   -Este repositorio cuenta con 3 versiones de las 15 paginas de HTML, la versión 1 cuenta con el código original sin modificaciones, la versión 2.0 es la actualización y cuenta con documentación, indentacion del código y nuevas etiquetas de HTML:5, la versión 3.0 se le agrego el diseño con hojas de estilo Css.
+   -Este repositorio cuenta con 4 versiones de las 15 paginas de HTML, la versión 1 cuenta con el código original sin modificaciones, la versión 2.0 es la actualización y cuenta con documentación, indentacion del código y nuevas etiquetas de HTML:5, la versión 3.0 se le agrego el diseño con hojas de estilo Css.
     
    Version 1.0.0
    
