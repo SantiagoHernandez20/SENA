@@ -2,7 +2,7 @@
                                                           -FECHA DE CREACION: 7/08/202
 
  
-   *ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                       -VERSION: 2.0.0
+   -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                       -VERSION: 2.0.0
    
      -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
      
