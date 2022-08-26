@@ -7,9 +7,10 @@
             
           -FICHA: 2558346                                                      -FECHA MODIFICACION: 8/08/2022
    
-             -FECHA DE CREACION: 7/08/202                                          -VERSION: 2.0.0                                        
+             -FECHA DE CREACION: 7/08/202                                          -VERSION: 2.0.0     
+             
                                                                                    
-                 -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                 
+                                              -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA                                 
       
 
     
