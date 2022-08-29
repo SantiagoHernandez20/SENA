@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Informacion sobre el producto</title>
+    </head>
+
+    <body>
+        <h3>Informacionsobre el producto</h3>
+        <form action="/php/insertarsubasta.php" method="post" enctype="multipart/form-data">
+            <fieldset>
+                <legend>Datos basicos</legend>
+                <label for="nombre">Nombre</label><br>
+                <input type="text" name="nombre" id="nombre" size="50" maxlength="250"><br><br>
+                <label for="descripcion">Descripcion</label><br>
+                <textarea name="descripcion" id="descripcion" cols="40" rows="5"></textarea>
+                <br><br>
+                <input name="contador" type="checkbox" value="si">Añadir contador de visitas
+            </fieldset>
+            <fieldset>
+                <legend>Datos economicos</legend>
+                <label for="precio">Precio</label>
+                <input type="text" size="5" id="precio" name="precio">euro
+                <label for="impuestos">Impuestos</label>
+                <select name="impuestos" id="impuestos">
+                    <option value="4">4%</option>
+                    <option value="7">7%</option>
+                    <option value="16">16%</option>
+                    <option value="25">25%</option>
+                </select>
+                <br><br>
+                <label>Promocion</label><br>
+                <input type="radio" name="promocion" value="ninguno" checked="checked">Ninguno<br>
+                <input type="radio" name="promocion" value="portes">Transporte gratuito<br>
+                <input type="radio" name="promocion" value="descuento">Descuento 5%<br>
+            </fieldset>
+        </form>
+    </body>
+
+</html>
